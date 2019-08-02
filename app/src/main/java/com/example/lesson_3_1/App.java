@@ -1,5 +1,4 @@
 package com.example.lesson_3_1;
 
-public class UtilityStorage {
-
+public class App {
 }
